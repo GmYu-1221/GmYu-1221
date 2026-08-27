@@ -3,83 +3,67 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/GmYu-1221?tab=followers">
-    <img src="https://img.shields.io/github/followers/GmYu-1221?label=Followers&style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=GmYu-1221&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-22c55e?style=for-the-badge&labelColor=0d1117" alt="Status: building" />
+  <sub>AI · Automation · Creative tools</sub>
 </div>
 
 <br />
 
-```text
-┌─[ gm@github ]─[ ~/workspace ]
-└──╼ $ whoami
-     Developer · AI explorer · Creative automation builder
-```
+### About
 
-### `> About me`
+I enjoy turning ideas into useful tools, mostly around **AI, automation and visual creation**.
 
-I enjoy turning ambitious ideas into things that actually run — especially at the intersection of **AI, automation and visual creation**.
+- Exploring practical AI workflows
+- Building with video, voice and generative media
+- Using Python to connect models, tools and products
 
-- 🧠 Exploring practical AI workflows and intelligent tools
-- 🎬 Building with video automation, voice and generative media
-- 🐍 Using Python to connect ideas, models and products
-- ⚡ Always curious, always shipping
-
-### `> Tech matrix`
+### Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,linux&theme=dark&perline=6" alt="Python, Java, Git, GitHub, VS Code and Linux" />
+  <code>Python</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Java</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Git</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Linux</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>AI workflows</code>
 </div>
 
-### `> Featured transmissions`
+### Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 Video Assistant</h3>
+      <h4 align="center">Video Assistant</h4>
       <p align="center">Experiments around intelligent video workflows and creative automation.</p>
-      <p align="center"><a href="https://github.com/GmYu-1221/Video-Assistant"><b>OPEN PROJECT →</b></a></p>
+      <p align="center"><a href="https://github.com/GmYu-1221/Video-Assistant">View project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🕷️ Crawl4AI Test</h3>
+      <h4 align="center">Crawl4AI Test</h4>
       <p align="center">Exploring AI-ready web crawling, structured content and agent workflows.</p>
-      <p align="center"><a href="https://github.com/GmYu-1221/crawl4ai-test"><b>OPEN PROJECT →</b></a></p>
+      <p align="center"><a href="https://github.com/GmYu-1221/crawl4ai-test">View project →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧩 ComfyUI Video Loader</h3>
+      <h4 align="center">ComfyUI Video Loader</h4>
       <p align="center">A lightweight custom node for loading video from a path in ComfyUI.</p>
-      <p align="center"><a href="https://github.com/GmYu-1221/comfyui-path-video-loader"><b>OPEN PROJECT →</b></a></p>
+      <p align="center"><a href="https://github.com/GmYu-1221/comfyui-path-video-loader">View project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☕ Student Grade System</h3>
+      <h4 align="center">Student Grade System</h4>
       <p align="center">A Java project for managing and exploring student grade data.</p>
-      <p align="center"><a href="https://github.com/GmYu-1221/student-grade-system"><b>OPEN PROJECT →</b></a></p>
+      <p align="center"><a href="https://github.com/GmYu-1221/student-grade-system">View project →</a></p>
     </td>
   </tr>
 </table>
 
-### `> System telemetry`
+### Activity
 
 <div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=GmYu-1221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GmYu-1221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=GmYu-1221&show_icons=true&hide_border=true&bg_color=00000000&title_color=64748b&icon_color=94a3b8&text_color=64748b" alt="GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GmYu-1221&layout=compact&hide_border=true&bg_color=00000000&title_color=64748b&text_color=64748b" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GmYu-1221&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f472b6&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GmYu-1221&bg_color=00000000&color=64748b&line=94a3b8&point=c4a77d&area=false&hide_border=true" width="96%" alt="Contribution activity graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <sub>Signal received. Thanks for visiting.</sub><br />
-  <b>「 保持好奇，持续创造。 」</b>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=90&section=footer" width="100%" alt="Gradient footer" />
+  <sub>Keep learning. Keep making.</sub>
 </div>
