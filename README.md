@@ -54,12 +54,12 @@ I enjoy turning ideas into useful tools, mostly around **AI, automation and visu
 ### Activity
 
 <div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=GmYu-1221&show_icons=true&hide_border=true&bg_color=00000000&title_color=64748b&icon_color=94a3b8&text_color=64748b" alt="GitHub statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GmYu-1221&layout=compact&hide_border=true&bg_color=00000000&title_color=64748b&text_color=64748b" alt="Most used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=GmYu-1221&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=64748b&amp;icon_color=94a3b8&amp;text_color=64748b" alt="GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GmYu-1221&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=64748b&amp;text_color=64748b" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GmYu-1221&bg_color=00000000&color=64748b&line=94a3b8&point=c4a77d&area=false&hide_border=true" width="96%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GmYu-1221&amp;bg_color=00000000&amp;color=64748b&amp;line=94a3b8&amp;point=c4a77d&amp;area=false&amp;hide_border=true" width="96%" alt="Contribution activity graph" />
 </div>
 
 <br />
